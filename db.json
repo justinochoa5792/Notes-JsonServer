@@ -16,21 +16,6 @@
       "description": "Render db.json on the page"
     },
     {
-      "title": "Tsting",
-      "description": "testing",
-      "id": 4
-    },
-    {
-      "title": "testing at home",
-      "description": "testing",
-      "id": 5
-    },
-    {
-      "title": "Test at home",
-      "description": "testing",
-      "id": 6
-    },
-    {
       "title": "Did this render twice?",
       "description": "testing",
       "id": 7
@@ -39,6 +24,21 @@
       "title": "No it did not!",
       "description": "testing",
       "id": 8
+    },
+    {
+      "title": "why though",
+      "description": "???",
+      "id": 11
+    },
+    {
+      "title": "How about now",
+      "description": "I hope I did not break anything",
+      "id": 13
+    },
+    {
+      "title": "Reset input",
+      "description": "So that they don't stay in the fields",
+      "id": 14
     }
   ]
 }
